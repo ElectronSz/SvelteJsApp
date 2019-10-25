@@ -1,11 +1,13 @@
 <script>
-	export let name;
+  import { FormGroup, Input, Label } from 'sveltestrap';
+
+  let inputValue = '';
 </script>
 
-<style>
-	h1 {
-		color: purple;
-	}
-</style>
-
-<h1>Hello {name}!</h1>
+<FormGroup>
+  <Label>Type here</Label>
+  <Input type="text" bind:value={inputValue} />
+</FormGroup>
+{#if inputValue}
+  <p>You typed: {inputValue}</p>
+{/if}
