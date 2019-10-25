@@ -21,3 +21,5 @@ Then, from within your project folder:
 cd public
 now
 ```
+
+And thats it
