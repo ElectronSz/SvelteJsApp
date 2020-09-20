@@ -16,7 +16,7 @@
     "bulma": "^0.8.0",
     "mongoose": "^5.7.12",
     "sirv-cli": "^0.4.4",
-    "svelma": "^0.3.0",
+    "svelma": "^0.4.0",
     "sveltestrap": "^3.2.8",
     "svero": "^1.0.0"
   },
