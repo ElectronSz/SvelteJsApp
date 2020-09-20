@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "bulma": "^0.8.0",
-    "mongoose": "^5.7.12",
+    "mongoose": "^5.10.2",
     "sirv-cli": "^0.4.4",
     "svelma": "^0.3.0",
     "sveltestrap": "^3.2.8",
