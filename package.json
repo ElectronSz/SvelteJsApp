@@ -13,7 +13,7 @@
     "svelte": "^3.12.1"
   },
   "dependencies": {
-    "bulma": "^0.8.0",
+    "bulma": "^0.9.0",
     "mongoose": "^5.7.12",
     "sirv-cli": "^0.4.4",
     "svelma": "^0.3.0",
